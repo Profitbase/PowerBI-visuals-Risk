@@ -40,7 +40,7 @@ For any questions about this visual, please submit a post in [Discussions](https
 
 ### Video tutorial
 
-*Comming soon*
+[Intro to Risk Matrix from Profitbase](https://youtu.be/KMG6hRW0lpQ?si=kGoAac9_AX4qfBnk)
 
 ### Step-by-step guide
 
